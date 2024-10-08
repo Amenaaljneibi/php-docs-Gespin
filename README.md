@@ -8,7 +8,7 @@ description: "This sample demonstrates a tiny Hello World PHP app for App Servic
 urlFragment: php-docs-hello-world
 ---
 
-# PHP Hello World
+# PHP Shopping cart
 
 This sample demonstrates a tiny Hello World PHP app for [App Service](https://docs.microsoft.com/azure/app-service).
 
